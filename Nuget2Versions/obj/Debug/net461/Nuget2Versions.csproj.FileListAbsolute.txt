@@ -1,0 +1,10 @@
+C:\Source\NugetDemo\Nuget2Versions\obj\Debug\net461\Nuget2Versions.csproj.CoreCompileInputs.cache
+C:\Source\NugetDemo\Nuget2Versions\obj\Debug\net461\Nuget2Versions.AssemblyInfoInputs.cache
+C:\Source\NugetDemo\Nuget2Versions\obj\Debug\net461\Nuget2Versions.AssemblyInfo.cs
+C:\Source\NugetDemo\Nuget2Versions\bin\Debug\net461\Nuget2Versions.dll
+C:\Source\NugetDemo\Nuget2Versions\bin\Debug\net461\Nuget2Versions.pdb
+C:\Source\NugetDemo\Nuget2Versions\obj\Debug\net461\Nuget2Versions.dll
+C:\Source\NugetDemo\Nuget2Versions\obj\Debug\net461\Nuget2Versions.pdb
+C:\Source\NugetDemo\Nuget2Versions\bin\Debug\net461\NugetDemo.dll
+C:\Source\NugetDemo\Nuget2Versions\obj\Debug\net461\Nuget2Versions.csprojResolveAssemblyReference.cache
+C:\Source\NugetDemo\Nuget2Versions\obj\Debug\net461\Nuget2Versions.csproj.CopyComplete
